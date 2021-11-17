@@ -1,3 +1,3 @@
-# COINX
+# COINx
 
-COINx
+COINX
