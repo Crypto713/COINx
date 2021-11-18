@@ -1,3 +1,3 @@
-# USDx & COINx
+# COINx
 
-USDX & COINX
+COINX & USDX
