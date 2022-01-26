@@ -1,6 +1,6 @@
 # COINx [Signum]
 
-COINx is deployed in the IOT.
+COINx - Deployed in the IOT.
 
 
 
