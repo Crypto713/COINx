@@ -1,6 +1,9 @@
 # COINx [Signum]
 
-COINx is currently deployed in the IOT.
+Created on 11.17.2021.
+COINx is deployed in the IOT.
+
+
 
     
 
