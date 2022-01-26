@@ -1,6 +1,6 @@
 # COINx [Signum]
 
-COINx [Signum] was created on 11.17.2021.
+COINx is currently deployed in the IOT.
 
     
 
